@@ -1,0 +1,48 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.springboot.bean.ConfigBean",
+      "name": "mrbird.blog",
+      "type": "com.springboot.bean.ConfigBean"
+    },
+    {
+      "sourceType": "com.springboot.bean.TestConfigBean",
+      "name": "test",
+      "type": "com.springboot.bean.TestConfigBean"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.springboot.bean.ConfigBean",
+      "name": "mrbird.blog.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.springboot.bean.ConfigBean",
+      "name": "mrbird.blog.title",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.springboot.bean.ConfigBean",
+      "name": "mrbird.blog.whole-title",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.springboot.bean.TestConfigBean",
+      "defaultValue": 0,
+      "name": "test.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.springboot.bean.TestConfigBean",
+      "name": "test.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.springboot.bean.TestConfigBean",
+      "name": "test.sex",
+      "type": "java.lang.String"
+    }
+  ]
+}
